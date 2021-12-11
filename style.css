@@ -1,8 +1,7 @@
 body{
-    font-size: 20px;
     background: url(LA_011.png) top center fixed;
     background-attachment: scroll;
-    max-width: 100%;
+    /*max-width: 100%;*/
     margin-left: 0px;
     margin-right: 0px;
 
@@ -12,60 +11,60 @@ body{
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 10%;
-      max-width: 100%;
+      max-width: auto;
   }
   
   h1{
     font-family: 'Titillium Web', sans-serif;
     color:#ffffff;
-    font-size: 18vmin;
+    font-size: 10vw;
     text-align: center;
     margin-left: 0px;
     margin-right: 0px;
-    margin-top: -100px;
-    margin-bottom: 3vmax;
-  }
-  
-  .main{
-    width:100%;
-      font-family: 'Titillium Web', sans-serif;
-      margin-left: 0px;
-      margin-right: 0px;
-      padding-top: 0px;
-      padding-bottom: 500px;
+    margin-top: -5.2vw;
+    margin-bottom: 1vmax;
   }
 
   h2{
     font-family: 'Titillium Web', sans-serif;
     color:#ffffff;
-    font-size: 6vmin;
+    font-size: 5vw;
     text-align: center;
     -webkit-text-stroke: 2px rgb(0, 0, 0);
     margin-left: 3vmax;
     margin-right: 3vmax;
-    margin-top: 1vmax;
+    margin-top: 0vmax;
   }
 
   h3{
     font-family: 'Titillium Web', sans-serif;
     color:#ffffff;
-    font-size: 1.56em;
+    font-size: 2vw;
     text-align: center;
     -webkit-text-stroke: 2px rgb(0, 0, 0);
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 1vmax;
+    margin-right: 1vmax;
     padding: 10px;
   }
 
   h4{
     font-family: 'Titillium Web', sans-serif;
     color:#ffffff;
-    font-size: 1.56em;
+    font-size: 2vw;
     text-align: justify;
     -webkit-text-stroke: 2px rgb(0, 0, 0);
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 1vmax;
+    margin-right: 1vmax;
+    padding: 10px;
+  }
+  h5{
+    font-family: 'Titillium Web', sans-serif;
+    color:#ffffff;
+    font-size: 3vw;
+    text-align: left;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    margin-left: 0vmax;
+    margin-right: 1vmax;
     padding: 10px;
   }
   
